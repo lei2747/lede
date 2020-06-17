@@ -12,9 +12,9 @@ name: OpenWrt-lei2747-x86_64-1.0
 on:
   schedule:
     - cron: 0 20 * * *
-  push:
-    branches: 
-      - master
+  #push:
+  #  branches: 
+  #    - master
   # release:
   #   types: [published]
 
